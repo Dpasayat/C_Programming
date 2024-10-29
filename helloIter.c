@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-  printf("Hello Iter!");
+  printf("Hello Iter!\n");
   return 0;
 }
